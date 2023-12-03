@@ -1,1 +1,1 @@
-job = "programer"
+trabajo = "programer"
